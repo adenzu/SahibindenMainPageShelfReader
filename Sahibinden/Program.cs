@@ -36,6 +36,8 @@
             lines.Insert(0, "ADVERT NAME" + new string(' ', 89) + "PRICE (TRY)\n");
             await File.WriteAllLinesAsync("adverts.txt", lines);
 
+            Console.WriteLine("Saved adverts to 'adverts.txt'...");
+
             // Not needed anymore
             lines.Clear();
 
