@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIMu7R9zhrLIDaqYouhXqXb+qClXkv2vNoBjsWw+0YajRA9/nx+rrnEPG5ELQ9j4z4y9j8qePhLtNhO24Sxv1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erenc\\OneDrive\\Masaüstü\\Klasörler\\programming\\csharp\\sanction_scanner_case\\Sahibinden\\Sahibinden\\Sahibinden.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erenc\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
